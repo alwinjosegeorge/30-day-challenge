@@ -1,4 +1,4 @@
-# Day 1: Variables and Basic Arithmetic
+# Day 2: Variables and Basic Arithmetic
 ## *Task*: Use variables to store and manipulate data.
 
 *Description*:
