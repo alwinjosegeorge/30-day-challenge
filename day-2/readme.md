@@ -28,11 +28,3 @@ print("The sum is", sum_result)
 print("The difference is", difference_result)
 print("The product is", product_result)
 print("The quotient is", quotient_result)
-
-Expected Output:
-
-The sum is 15
-The difference is 5
-The product is 50
-The quotient is 2.0
-
