@@ -1,4 +1,4 @@
-# Day 5: String Extraction and Concatenation
+# Day 3: String Extraction and Concatenation
 ## *Task: Extract parts of a string and perform concatenation.*
 
 *Description*:
@@ -15,17 +15,17 @@ Write a Python program that does the following:
 Example:
 ```python
 # Define the variable
-text = "hello world"
+str1= "hello world"
 
 # Extract the word "world" and print it
-extracted_word = text[6:]
-print(extracted_word)
+str2= str1[6:]
+print(str2)
 
 # Concatenate with "everyone" to form a new phrase
-new_text = extracted_word + " everyone"
+new_string= str2 + " everyone"
 
 # Display the result with a label
-print("The modified text is:", new_text)
+print("The modified text is:", new_string)
 
 Expected Output:
 
