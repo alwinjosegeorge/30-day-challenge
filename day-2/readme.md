@@ -12,6 +12,7 @@ Write a Python program that does the following:
     Display each result with a label (e.g., “The sum is 15”).
 
 Example:
+```python
 
 #Define variables
 num1 = 10
