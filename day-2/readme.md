@@ -1,7 +1,7 @@
-Day 1: Variables and Basic Arithmetic
-Task: Use variables to store and manipulate data.
+# Day 1: Variables and Basic Arithmetic
+## *Task*: Use variables to store and manipulate data.
 
-Description:
+*Description*:
 Variables in Python allow you to store and work with data throughout your program. You can assign values to variables using the = operator. Once assigned, you can use these variables to perform basic arithmetic operations like addition (+), subtraction (-), multiplication (*), and division (/).
 
 Question:
@@ -11,7 +11,7 @@ Write a Python program that does the following:
     Calculate their sum, difference, product, and quotient, and store each result in a separate variable.
     Display each result with a label (e.g., “The sum is 15”).
 
-Example:
+*Example*:
 ```python
 
 #Define variables
